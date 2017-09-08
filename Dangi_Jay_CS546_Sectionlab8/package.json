@@ -1,0 +1,18 @@
+{
+  "name": "jay_dangi",
+  "version": "1.0.0",
+  "description": "This program is to check a string palindrome or not. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "jay_dangi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.10"
+  }
+}

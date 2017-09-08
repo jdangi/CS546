@@ -1,0 +1,16 @@
+body {
+    padding-top: 50px;
+}
+
+.navbar-inverse .navbar-brand{
+    color: #ffffff;   /*accessbility issue 5 insufficient contrast*/
+}
+
+.hints {
+    color: #767676;  
+}
+
+.the-result {
+    background: #666;
+    color: #ffffff; /*accessbility issue 6 insufficient contrast as well*/
+}
